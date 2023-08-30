@@ -1,0 +1,80 @@
+body{
+   
+    background-color:rgb(54, 63, 49);
+    padding-left: 350px;
+    margin-top:50px ;
+    display: flex;
+
+}
+#lol{
+    background-color: rgb(247, 0, 0);
+    box-sizing: border-box;
+    height: 400px;
+    width: 700px;
+    display: flex;
+    border-radius: 10px;
+    background-image: url('/nature1.jpg');
+}
+#lol1{ 
+    display: solid;
+    background-color: rgba(0, 0, 0, 0.1);
+    box-sizing: border-box;
+    height: 400px;
+    width: 250px;
+    padding: 2px;
+    margin-bottom: 30px;
+    
+
+    margin-left: 10px;
+   
+}
+#lol2{
+    display: solid;
+    background-color: rgba(0, 0, 0, 0.7);
+    box-sizing: border-box;
+    height: 400px;
+    margin-left: 10px;
+    padding-left: 10px;
+    width: 250px;
+    
+    
+
+ 
+}
+#lol3{
+    background-color: rgba(0, 0, 0, 0.7);
+    height: 400px;
+    width: 250px;
+    flex-wrap: wrap;
+margin: auto;
+border-radius: 10px;
+}
+#search{
+    margin-top: 20px;
+}
+#btn{
+    margin: auto;
+}
+#img1{
+    /* transform: translate(transform); */
+    /* mix-blend-mode:multiply; */
+    margin: auto;
+    padding: 4px;
+
+    
+}
+h1{
+    padding: 4px;
+    size-adjust: auto;
+}
+#img2{
+    mix-blend-mode: multiply;
+}
+#Namme{
+    margin: auto;
+    padding: auto;
+}
+#img3{
+    height: 28px;
+    width: 28px;
+}
