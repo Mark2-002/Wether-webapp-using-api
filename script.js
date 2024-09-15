@@ -1,12 +1,4 @@
-// const url = 'https://the-weather-api.p.rapidapi.com/api/weather/mumbai';
-// const options = {
-// 	method: 'GET',
-// 	headers: {
-// 		'X-RapidAPI-Key': 'e712a098e4msh2a54d10ebeadb89p1d50a9jsned9daaa6f8aa',
-// 		'X-RapidAPI-Host': 'the-weather-api.p.rapidapi.com'
-// 	}
 
-// };
 
 const url = 'https://weatherapi-com.p.rapidapi.com/current.json?q=53.1%2C-0.13';
 const options = {
@@ -60,13 +52,6 @@ function submit1() {
 }
 
 getWeather("mumbai")
-
-
-
-
-
-
-
 document.getElementById("cityi")
     .addEventListener("keyup", function(event) {
     event.preventDefault();
